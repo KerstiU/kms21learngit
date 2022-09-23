@@ -6,4 +6,4 @@ Kati
 Mati
 Tiina
 Leopold
-Malle
+Juhan
