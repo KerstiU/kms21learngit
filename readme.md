@@ -6,3 +6,5 @@ Kati
 Mati
 Tiina
 Leopold
+Malle
+Kalle
