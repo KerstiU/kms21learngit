@@ -6,5 +6,11 @@ Kati
 Mati
 Tiina
 Leopold
+<<<<<<< HEAD
 Juhan
 Ülle
+Malle
+Kalle
+Manivald
+
+
